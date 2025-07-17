@@ -1,1 +1,2 @@
-# Course_PfN
+# Python for Neuroscience (PfN) Course
+Instructor: Morteza Mooziri, M.D.
